@@ -83,4 +83,19 @@ x = <string> a
 ![alt text](image-4.png)
 
 #### void
-不是定义变量，而是用于限制函数的返回值空
+- 不是定义变量，而是用于限制函数的返回值空
+- 函数调用者不应该依赖其返回值做任何事
+- undefined 也是void可以接受的返回值
+
+![alt text](image-5.png)
+![alt text](image-6.png)
+
+#### 小object
+![alt text](image-7.png)
+
+#### 大Object
+- 不能存null and undefined
+- 几乎和any 差不多
+- 大小object很少用
+![alt text](image-8.png)
+

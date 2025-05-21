@@ -2,6 +2,8 @@
 
 ## 基础篇
 
+![alt text](image-9.png)
+
 ### 数据类型
 
 ![alt text](image.png)
